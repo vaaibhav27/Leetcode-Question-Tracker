@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vaaibhav27/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/vaaibhav27/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/vaaibhav27/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/vaaibhav27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaaibhav27/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/vaaibhav27/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vaaibhav27/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0542-01-matrix) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vaaibhav27/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vaaibhav27/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vaaibhav27/Leetcode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/vaaibhav27/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vaaibhav27/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vaaibhav27/Leetcode/tree/master/0733-flood-fill) |
@@ -848,9 +851,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vaaibhav27/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vaaibhav27/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
