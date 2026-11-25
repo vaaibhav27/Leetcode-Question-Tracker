@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vaaibhav27/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaaibhav27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaaibhav27/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/vaaibhav27/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/vaaibhav27/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vaaibhav27/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vaaibhav27/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3934-smallest-unique-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
+| [3934-smallest-unique-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -861,4 +865,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vaaibhav27/Leetcode/tree/master/0322-coin-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
